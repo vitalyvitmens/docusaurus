@@ -6,9 +6,9 @@ Happy contributing!
 
 ## Pre-flight checklist
 
-- [ ] I have read the [Contributing Guidelines on pull requests](https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md#pull-requests).
-- [ ] **If this is a code change**: I have written unit tests and/or added dogfooding pages to fully verify the new behavior.
-- [ ] **If this is a new API or substantial change**: the PR has an accompanying issue (closes #0000) and the maintainers have approved on my working plan.
+- [х] I have read the [Contributing Guidelines on pull requests](https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md#pull-requests).
+- [х] **If this is a code change**: I have written unit tests and/or added dogfooding pages to fully verify the new behavior.
+- [х] **If this is a new API or substantial change**: the PR has an accompanying issue (closes #0000) and the maintainers have approved on my working plan.
 
 <!--
 Please also remember to sign the CLA, although you can also sign it after submitting the PR. The CLA is required for us to merge your PR.
